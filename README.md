@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks\
 🎓 &nbsp;I'm currently studying Software Engineering at 42 Nice\
 🌱 &nbsp;I'm on track to learn more about Cloud Architecture, AI, and Data Science\
-✉️ &nbsp;You can shoot me an email at me@evan.sh or DM me on Discord at evansh#0001\
+✉️ &nbsp;You can shoot me an email at me@evan.sh or DM me on Discord @evan.sh \
 📄 &nbsp;Please have a look at my [Résumé](https://evan.sh/resume) for more details about me
 
 ### 🛠 &nbsp;Tech Stack
